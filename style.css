@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+h2 {
+  text-align: center;
+  color: white;
+}
+img {
+  max-width: fit-content;
+  max-height: fit-content;
+  padding-left: 500px;
+  display: inline-block;
+  width: 100%;
+}
+body {
+  background-color: rgba(255, 0, 0, 0.5);
+}
+div {
+  max-width: fit-content;
+  max-height: fit-content;
+  background-color: rgba(255, 0, 0, 0.5);
+  color: whitesmoke;
+  box-shadow: 20px 20px 20px;
+  font-family: Georgia;
+  padding: 25px 25px;
+  margin: 11px;
+  margin-top: 50px;
+}
